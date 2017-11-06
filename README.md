@@ -1,6 +1,6 @@
 # PAZNLiveSdk_KJ_iOS
 
-***直播2.X升级文档：[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_TX_V1.1.3.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_TX_V1.1.3.zip)***  
+***直播2.X升级文档：[https://github.com/weiweitang1314/PAZNLiveSdk_KJ_iOS/blob/master/Live1.X_To_Live2.X.md](https://github.com/weiweitang1314/PAZNLiveSdk_KJ_iOS/blob/master/Live1.X_To_Live2.X.md)***  
 
 
 ## 调试账号

@@ -16,3 +16,12 @@ PALiveLib:SDK库目录
 PALiveSDKDemo:demo源码
 
 # 更新记录
+
+## PALiveSDK_KJ-V2.0.0(2017-11-03 15:50)
+
+### 1. 完整包地址(demo、lib、doc) 
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDK_KJ-V2.0.0.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDK_KJ-V2.0.0.zip)
+
+### 2. 更新
+1. 简化了SDK接口
+2. 更新了直播平台库

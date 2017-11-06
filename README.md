@@ -1,6 +1,6 @@
 # PAZNLiveSdk_KJ_iOS
 
-***直播2.X升级文档：[https://github.com/weiweitang1314/PAZNLiveSdk_KJ_iOS/blob/master/Live1.X_To_Live2.X.md](https://github.com/weiweitang1314/PAZNLiveSdk_KJ_iOS/blob/master/Live1.X_To_Live2.X.md)***  
+***[直播2.X升级文档](https://github.com/weiweitang1314/PAZNLiveSdk_KJ_iOS/blob/master/Live1.X_To_Live2.X.md)***  
 
 
 ## 调试账号

@@ -17,6 +17,14 @@ PALiveSDKDemo:demo源码
 
 # 更新记录
 
+## PALiveSDK_KJ-V2.0.1(2017-11-9 11:50)
+
+### 1. 完整包地址(demo、lib、doc) 
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDK_KJ-V2.0.1.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDK_KJ-V2.0.1.zip)
+
+### 2. 更新
+1. 更新了直播平台库 解决iOS 11卡死的问题
+
 ## PALiveSDK_KJ-V2.0.0(2017-11-03 15:50)
 
 ### 1. 完整包地址(demo、lib、doc) 

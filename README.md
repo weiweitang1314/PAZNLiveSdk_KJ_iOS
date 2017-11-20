@@ -17,6 +17,14 @@ PALiveSDKDemo:demo源码
 
 # 更新记录
 
+## PALiveSDK_KJ-V2.0.3(2017-11-20 13:55)
+
+### 1. 完整包地址(demo、lib、doc) 
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDK_KJ-V2.0.3.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDK_KJ-V2.0.3.zip)
+
+### 2. 更新
+1. 更新了直播平台库 私有化ffmpeg 库有删减 请先删除老的再重新导入
+
 ## PALiveSDK_KJ-V2.0.1(2017-11-9 11:50)
 
 ### 1. 完整包地址(demo、lib、doc) 

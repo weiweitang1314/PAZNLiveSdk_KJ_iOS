@@ -17,6 +17,15 @@ PALiveSDKDemo:demo源码
 
 # 更新记录
 
+## PALiveSDK_KJ-V2.0.4(2018-01-18 19:50)
+
+### 1. 更新包包地址
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_KJ_V2.0.4.zip]
+***下载PALiveSDK_KJ-V2.0.3完整包后替换此补丁包中PaLiveSdk.framework即可***
+
+### 2. 更新
+1. 适配iPhone X
+
 ## PALiveSDK_KJ-V2.0.3(2017-11-20 13:55)
 
 ### 1. 完整包地址(demo、lib、doc) 

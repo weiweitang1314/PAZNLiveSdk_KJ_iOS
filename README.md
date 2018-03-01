@@ -20,7 +20,7 @@ PALiveSDKDemo:demo源码
 ## PALiveSDK_KJ-V2.0.4(2018-01-18 19:50)
 
 ### 1. 更新包包地址
-地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_KJ_V2.0.4.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_KJ_V2.0.4.zip)
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_KJ_V2.0.4.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_KJ_V2.0.4.zip)  
 ***下载PALiveSDK_KJ-V2.0.3完整包后替换此包中PaLiveSdk.framework即可***
 
 ### 2. 更新
